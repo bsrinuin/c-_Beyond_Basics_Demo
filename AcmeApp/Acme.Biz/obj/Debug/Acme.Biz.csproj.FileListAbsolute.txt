@@ -1,0 +1,7 @@
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\bandarusr01\Desktop\Learning\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
